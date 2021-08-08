@@ -1,4 +1,4 @@
-//判断是否是素数
+// 判断是否是素数
 #include <stdio.h>
 
 int main() {
